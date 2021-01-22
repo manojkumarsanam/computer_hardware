@@ -2,6 +2,13 @@
 
 _a brief demo on basics of computer hardware and devices used in it_
 
+<b> notes link </b>
+ View my notes online without any download
+<a href="https://www.flipsnack.com/8F5BE55569B/computer-hardware.html">link</a>
+<div>credits:<a href="https://www.flipsnack.com">flipsnack.com</a> 
+ </div>
+ 
+ 
 **_resources:_**
 
 _youtube:powercert-https://youtu.be/2eLe7uz-7CM
