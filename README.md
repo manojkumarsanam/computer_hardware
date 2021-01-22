@@ -27,28 +27,28 @@ _youtube:powercert-https://youtu.be/2eLe7uz-7CM
 -   monitor types
 -   printers
 
-**STORAGE DEVICES:**
-  
-
-_-  HDD
--   SSD
--   Hybrrid devices_
-
-**MOBILE ISSUES
-LAPTOP ISSUES**
-**MOTHER BOARD**
- 
-_-   form factor
--   I/O interfaces_
-
-**CPU COOLING MECHANISMS
-RAM AND TYPES OF RAM
-CPU SOCKETS AND CHIPSETS
-BIOS/CMOS
-BOOT PRIORITY
-TROUBLE SHOOTING WITH CPU SOUNDS
-RAIDS
-NETWORK CABLES AND CONNECTORS
-WIRING STANDARDS
-FIREWALLS
-NETWORK COMPONENTS**
+**STORAGE DEVICES:**  
+<ul>
+<li>HDD</li>
+<li>SSD</li>
+<li>Hybrrid devices</li></ul>
+<ul>
+ <li>MOBILE ISSUES</li>
+ <li>LAPTOP ISSUES</li>
+ <li>MOTHER BOARD</li>
+ <ul>
+  <li>form factor</li>
+  <li>I/O interfaces</li></ul>
+</ul>
+<ul><li>CPU COOLING MECHANISMS</li>
+<li>RAM AND TYPES OF RAM</li>
+<li>CPU SOCKETS AND CHIPSETS</li>
+<li>BIOS/CMOS</li>
+<li>BOOT PRIORITY</li>
+<li>TROUBLE SHOOTING WITH CPU SOUNDS</li>
+<li>RAIDS</li>
+<li>NETWORK CABLES AND CONNECTORS</li>
+<li>WIRING STANDARDS</li>
+<li>FIREWALLS</li>
+ <li>NETWORK COMPONENTS</li>
+</ul>
